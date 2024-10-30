@@ -21,7 +21,7 @@ A simple Python script that uses `yt-dlp` to download videos from Pinterest by p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pinterest-video-downloader.git
+   git clone https://github.com/its-cutie-valerie/pinterest-video-downloader.git
    cd pinterest-video-downloader
    ```
 
